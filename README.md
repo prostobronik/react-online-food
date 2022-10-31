@@ -1,6 +1,6 @@
 #  React App Online-Food
 
-[Demo](https://prostobronik.github.io/todo-list/).
+[Demo](https://prostobronik.github.io/react-online-food/).
 
 ## Available Scripts
 
